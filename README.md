@@ -1,4 +1,4 @@
 # testgithub
 Test Github
 
-Testgithub is a epository for showing the bare.
+Testgithub is a repository for showing the Insights.
